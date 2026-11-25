@@ -1,0 +1,4 @@
+vendor_id,vendor_name,invoice_number,invoice_date,payment_date,amount,status
+101,ABC Traders,INV001,2026-01-01,2026-01-10,5000,Paid
+102,XYZ Stores,INV002,2026-01-05,2026-01-20,7500,Paid
+103,ABC Traders,INV003,2026-01-08,2026-01-15,3000,Pending
